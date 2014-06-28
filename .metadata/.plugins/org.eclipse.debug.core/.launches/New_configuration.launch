@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.python.pyeclipse.launch.pythonLaunchConfigurationType">
+<booleanAttribute key="org.python.pyeclipse.launch.DEFAULT_INTERPRETER" value="true"/>
+<stringAttribute key="org.python.pyeclipse.launch.INTERPRETER_ARGS" value=""/>
+<stringAttribute key="org.python.pyeclipse.launch.INTERPRETER_PATH" value="python"/>
+<stringAttribute key="org.python.pyeclipse.launch.MODULE" value="/python/helloworld.py"/>
+<stringAttribute key="org.python.pyeclipse.launch.MODULE_ARGS" value=""/>
+</launchConfiguration>
